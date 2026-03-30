@@ -6,3 +6,5 @@ Configuration Station Atmos 41 Gen 2 pour projet Terra Forma
 - Le fichier LoRaWAN_Final.ino est le fichier chargé sur la station qui fonctionne pour réaliser la récupération et le stockage des données de la station de bout en bout.
 
 - Le fichier RecuperationMesureEnDirect.ino sert à récupérer avec un lien direct (USB) sur la station météo, toutes les données partagées par la station.
+
+- Le fichier collect_send_CoAP.ino est la première version fonctionnelle de la version finale du projet avec le protocole COAP d'intégré.
